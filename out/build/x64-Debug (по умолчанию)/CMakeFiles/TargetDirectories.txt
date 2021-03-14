@@ -1,0 +1,5 @@
+C:/Users/StOS/Desktop/ВУЗ/Барков/lab3/out/build/x64-Debug (по умолчанию)/CMakeFiles/rebuild_cache.dir
+C:/Users/StOS/Desktop/ВУЗ/Барков/lab3/out/build/x64-Debug (по умолчанию)/CMakeFiles/forMain.dir
+C:/Users/StOS/Desktop/ВУЗ/Барков/lab3/out/build/x64-Debug (по умолчанию)/CMakeFiles/whileMain.dir
+C:/Users/StOS/Desktop/ВУЗ/Барков/lab3/out/build/x64-Debug (по умолчанию)/CMakeFiles/doWhileMain.dir
+C:/Users/StOS/Desktop/ВУЗ/Барков/lab3/out/build/x64-Debug (по умолчанию)/CMakeFiles/edit_cache.dir
